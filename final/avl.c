@@ -120,3 +120,10 @@ node * delete( node * Node, int key ) {
     }
     return Node;
 }
+
+int main () {
+
+    printf("Hi this is a change\n");
+
+    return 0;
+}
